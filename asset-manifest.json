@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/smartgoalmarketingwebsite/static/css/main.15b2615a.css",
+    "main.js": "/smartgoalmarketingwebsite/static/js/main.794ebc42.js",
+    "static/js/787.3206a0fc.chunk.js": "/smartgoalmarketingwebsite/static/js/787.3206a0fc.chunk.js",
+    "index.html": "/smartgoalmarketingwebsite/index.html",
+    "main.15b2615a.css.map": "/smartgoalmarketingwebsite/static/css/main.15b2615a.css.map",
+    "main.794ebc42.js.map": "/smartgoalmarketingwebsite/static/js/main.794ebc42.js.map",
+    "787.3206a0fc.chunk.js.map": "/smartgoalmarketingwebsite/static/js/787.3206a0fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15b2615a.css",
+    "static/js/main.794ebc42.js"
+  ]
+}
